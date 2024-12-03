@@ -1,0 +1,3 @@
+﻿<Solution>
+  <Project Path="Translator\Translator.csproj" Type="Classic C#" />
+</Solution>
